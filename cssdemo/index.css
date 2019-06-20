@@ -1,0 +1,20 @@
+
+.pink-heading {
+    color: pink;
+    font-size: 100px;
+    display: inline;
+}
+
+.green-heading {
+    color: green;
+    font-size: 50px;
+    display: inline;
+}
+
+.blue-heading {
+    color: blue;
+}
+
+.bold {
+    display: block;
+}
