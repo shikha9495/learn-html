@@ -1,0 +1,9 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-size: 100% 100%;
+}
