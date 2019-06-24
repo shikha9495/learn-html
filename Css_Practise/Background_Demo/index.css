@@ -29,10 +29,16 @@ body {
     border-style: double;
     border-color: black;
     border-width: 4px;
-    padding: 4px;
+    padding: 5px;
 }
 
 .content-container {
     margin-left: 25%;
     margin-right: 25%;
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-top: 2%;
+    padding-bottom: 15%;
 }
+
+
