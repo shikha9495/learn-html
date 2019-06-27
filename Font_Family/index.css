@@ -17,6 +17,7 @@ p.serif {
 h1.redserifs {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-style: italic;
+    font-size: 50px;
 }
 
 .title-border {
