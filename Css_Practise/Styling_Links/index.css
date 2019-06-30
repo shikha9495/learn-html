@@ -1,0 +1,37 @@
+a:link {
+    color: rgb(146, 17, 107);
+    background-color: black;
+    padding: 10px 20px 20px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: auto;
+    width: 300px;
+}
+
+a:visited {
+    background-color: green;
+    color: white;
+}
+
+a:hover {
+    color: black;
+    background-color: rgb(146, 17, 107);
+    text-decoration: none;
+}
+
+a:active {
+    background-color: rgb(235, 78, 20);
+}
+
+.serif {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+    height: 90px;
+    padding-top: 30%;
+    padding-bottom: 25%;
+}
