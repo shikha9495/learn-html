@@ -1,0 +1,15 @@
+ul.square-bullet-point {
+    list-style-type: square;
+}
+
+ul.circle-bullet-point {
+    list-style-type: circle;
+}
+
+ol.roman-bullet-point {
+    list-style-type: upper-roman;
+}
+
+ol.latin-bullet-point {
+    list-style-type: upper-latin;
+}
