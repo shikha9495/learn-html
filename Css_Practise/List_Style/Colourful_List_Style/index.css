@@ -1,0 +1,28 @@
+ol {
+    list-style-type: none;   
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol li::before {   
+    content: "$";
+    color: rgb(214, 34, 133);
+    width: 1em;
+    display: inline-block; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+}
+
+ul li::before {
+    content: "#";
+    color: rgb(236, 141, 141);
+    width: 1em; 
+    display: inline-block;  
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+}
+
