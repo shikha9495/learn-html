@@ -1,14 +1,27 @@
 ol {
-    list-style-type: none;   
+    list-style-type: none;
+    background-color: rgb(223, 93, 132);
+    padding: 20px;
+}
+
+ol li {
+    background-color: rgb(235, 147, 173);
 }
 
 ul {
     list-style-type: none;
+    background-color: rgb(41, 153, 153) ;
+    padding: 20px;
 }
+
+ul li {
+    background-color: aqua;
+}
+
 
 ol li::before {   
     content: "$";
-    color: rgb(214, 34, 133);
+    color: black;
     width: 1em;
     display: inline-block; 
     margin-left: -0.9em; 
@@ -18,7 +31,7 @@ ol li::before {
 
 ul li::before {
     content: "#";
-    color: rgb(236, 141, 141);
+    color: black;
     width: 1em; 
     display: inline-block;  
     margin-left: -0.9em; 
