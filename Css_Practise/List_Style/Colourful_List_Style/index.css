@@ -16,8 +16,8 @@ ul {
 
 ul li {
     background-color: aqua;
+    margin: 5px;
 }
-
 
 ol li::before {   
     content: "$";
