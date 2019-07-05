@@ -32,3 +32,10 @@
 #students tr:hover {
     background-color: rgb(238, 231, 219);
 }
+
+.container {
+    width: 800px;
+    height: 800px;
+    overflow-x:auto;
+    overflow-y:auto;
+}
