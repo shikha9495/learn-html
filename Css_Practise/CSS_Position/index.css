@@ -1,0 +1,6 @@
+.relative {
+    position: relative;
+    border: 1px solid green;
+    top: 100px;
+    left: 100px;
+}
