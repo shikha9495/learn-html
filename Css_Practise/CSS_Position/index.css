@@ -1,6 +1,12 @@
 .relative {
     position: relative;
     border: 1px solid green;
-    top: 100px;
-    left: 100px;
+    top: 20px;
+    left: 20px;
+}
+.fixed {
+    position: fixed;
+    border: 1px solid green;
+    top: 150px;
+    left: 150px;
 }
