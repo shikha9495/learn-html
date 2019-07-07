@@ -4,9 +4,38 @@
     top: 20px;
     left: 20px;
 }
+
+.relative-parent {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: green;
+    width: 500px;
+    height: 300px;
+}
+
 .fixed {
     position: fixed;
     border: 1px solid green;
-    top: 150px;
-    left: 150px;
+    top: 500px;
+    left: 500px;
+}
+
+.absolute-child {   
+    position: absolute;
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    top: 20px;
+    left: 20px;
+    
+}
+
+.absolute-grand-child {
+    position: absolute;
+    background-color: orange;
+    width: 125px;
+    height: 125px;
+    top: 20px;
+    left: 20px;
 }
