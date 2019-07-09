@@ -8,7 +8,7 @@
 .fixed {
     position: fixed;
     border: 1px solid green;
-    top: 550px;
+    top: 5px;
     left: 50px;
 }
 
@@ -50,5 +50,12 @@
 }
 
 .style {
-    padding-bottom: 2000px;
+    padding-bottom: 20px;
 }
+
+img {
+    position: relative;
+    bottom: 180px;
+    z-index: -1;
+}
+
