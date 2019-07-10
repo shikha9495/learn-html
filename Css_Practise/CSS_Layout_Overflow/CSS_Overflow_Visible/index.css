@@ -1,0 +1,10 @@
+#overflowtest {
+    background: grey;
+    color: white;
+    padding: 20px;
+    border: 2px solid rgb(161, 12, 87);
+    width: 50%;
+    height: 80px;
+    overflow: visible;
+    font-size: 20px;
+}
