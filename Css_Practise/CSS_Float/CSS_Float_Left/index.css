@@ -1,0 +1,17 @@
+img {
+    float: left;
+    border: 2px 2px 2px 2px;
+    padding: 2px;
+}
+
+p{
+    border: 1px solid rebeccapurple;
+    text-align: justify;
+    padding: 5px;
+}
+
+span {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
