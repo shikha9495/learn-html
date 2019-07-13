@@ -1,0 +1,8 @@
+.box {
+    color: rgb(252, 252, 252);
+    height: 150px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+}
