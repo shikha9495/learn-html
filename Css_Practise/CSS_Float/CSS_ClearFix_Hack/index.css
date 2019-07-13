@@ -1,0 +1,10 @@
+img {
+    border: 5px;
+    float: right;
+}
+
+p {
+    border: 5px solid rebeccapurple;
+    padding: 5px;
+    overflow: auto;
+}
