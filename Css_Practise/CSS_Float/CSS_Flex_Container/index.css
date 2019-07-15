@@ -1,0 +1,19 @@
+.heading {
+    font-style: italic;
+    color: #6e1818;
+}
+
+.flexible-container {
+    display: flex;
+    background-color: rgba(179, 59, 59, 0.973);
+}
+
+.flexible-container .box {
+    background-color: #dd7373;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 25px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
