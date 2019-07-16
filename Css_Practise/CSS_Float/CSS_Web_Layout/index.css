@@ -1,0 +1,43 @@
+.header {
+    background-color: gray;
+    color: white;
+    padding: 8px;
+}
+
+.footer {
+    background-color: gray;
+    color: white;
+    padding: 6px;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    background-color: rgb(35, 144, 216);
+    color: white;
+    margin-bottom: 8px;
+    padding: 10px;
+    width: 80%;
+}
+
+.menu ul li:hover {
+    background-color: gray;
+}
+
+.content {
+    width: 75%;
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+
