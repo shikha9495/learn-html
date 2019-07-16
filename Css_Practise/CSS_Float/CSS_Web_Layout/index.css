@@ -40,4 +40,9 @@
     overflow: auto;
 }
 
+.background {
+   background-image: url("image/background.jpg");
+   background-size: 100% 100%;
+}
+
 
