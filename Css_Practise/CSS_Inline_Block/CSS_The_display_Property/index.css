@@ -1,0 +1,26 @@
+span.a {
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid black;  
+    background-color: rgba(247, 105, 188, 0.836); 
+  }
+  
+  span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid black;    
+    background-color: rgb(64, 224, 211); 
+  }
+  
+  span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid black;    
+    background-color: rgb(245, 135, 45); 
+  }
