@@ -1,0 +1,7 @@
+.center {
+    padding: 70px 0;
+    border: 5px solid rgb(235, 139, 30);
+    background-color: rgb(110, 16, 199);
+    color: white;
+    font-size: 40px;
+  }
