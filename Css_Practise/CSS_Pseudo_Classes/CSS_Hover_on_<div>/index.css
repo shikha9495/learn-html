@@ -1,0 +1,10 @@
+div {
+    background-color: rgb(7, 44, 253);
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  div:hover {
+    background-color: rgb(247, 49, 148);
+  }
