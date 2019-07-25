@@ -1,0 +1,6 @@
+h2::before {
+    content: url(image/flower.png);
+    display: inline-block;
+    width: 20px;
+    height: 25px;
+  }
